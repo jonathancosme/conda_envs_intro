@@ -135,7 +135,7 @@ However, if you must you pip:
 1. Use mamba/conda to install everything that you can
 2. Use pip at the end
 
-### Skip installtion confirmation
+### Skip installation confirmation
   
 By default, when installing mamba/conda packages, the user will be prompted to confirm the installs.  
 You can skip this confirmation by adding the '-y' flag at the **end** of an install command:  
